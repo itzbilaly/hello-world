@@ -2,7 +2,7 @@
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
     <h2>updated today on container dated 31 May 22</h2>
-    <p>Please fill in this form to create an account.</p>
+    <p>Please fill in this form to create an account. upload and deploy</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
